@@ -1,3 +1,8 @@
+/*
+A question for candidates more fimilliar with C.
+Question asked: What does mysteryFuncOne(char* in) do?
+*/
+
 #include <stdlib.h>
 
 #define TRUE 1
