@@ -1,3 +1,8 @@
+/*
+Taken from http://stackoverflow.com/questions/19052559/illegal-start-of-expression-java-boolean
+Question asked: What's wrong with this code?
+*/
+
 public class Project7 {
 
     public static void main(String[] args) {
