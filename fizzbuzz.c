@@ -1,3 +1,7 @@
+/*
+A basic fizzbuzz solution. Usually ask candidates to write their own.
+This is not mean to be the correct answer, but rather a basic solution.
+*/
 int main()
 {
 	int i;
