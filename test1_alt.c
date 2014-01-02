@@ -1,6 +1,7 @@
 /*
 A question for candidates more fimilliar with C.
-Question asked: What does mysteryFuncOne(char* in) do?
+Question asked: What's wrong with this code?
+A derivative of https://github.com/darrell-d/co-op_tests/edit/master/test1.c
 */
 
 #include <stdlib.h>
