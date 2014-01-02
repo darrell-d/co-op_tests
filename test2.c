@@ -1,3 +1,7 @@
+/*
+A question for candidates more fimilliar with C.
+Question asked: What does this code do? Be as detailed as possible.
+*/
 #include <stdlib.h>
 
 int printArray(int* arr, int size);
